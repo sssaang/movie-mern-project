@@ -6,7 +6,7 @@ My-Movie, a simple blog for trending && latest movies
 
 #### Example:
 
-I have used AWS to host the website successfully but is currently not in production line as I paused the instance to stop from extra cost billed. 
+I have used AWS to host the website but is currently paused to stop from extra cost billed. 
 Whether users are registered or not, they can view movies by its thumbnail image and see the detailed information about the movie by clikcing the image. If egistered users find movies interesting, they can add to their favorite lists which could be seen in My Favorites page.
 ## Project Screen Shot(s)
 
